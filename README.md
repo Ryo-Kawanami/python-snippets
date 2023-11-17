@@ -1,2 +1,1 @@
-# python snipets by Ryo-Kawanami
-TBD
+# python-snipets
